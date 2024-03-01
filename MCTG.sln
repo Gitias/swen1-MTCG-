@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MCTG", "MCTG\MCTG.csproj", "{60F757B6-E8EC-4220-B1EF-7374B549F7BC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MCTG_Test", "MCTG_Test\MCTG_Test.csproj", "{BB7D7321-9A1C-4D77-B498-E6FDBF62AFDF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{60F757B6-E8EC-4220-B1EF-7374B549F7BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60F757B6-E8EC-4220-B1EF-7374B549F7BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60F757B6-E8EC-4220-B1EF-7374B549F7BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60F757B6-E8EC-4220-B1EF-7374B549F7BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB7D7321-9A1C-4D77-B498-E6FDBF62AFDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB7D7321-9A1C-4D77-B498-E6FDBF62AFDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB7D7321-9A1C-4D77-B498-E6FDBF62AFDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB7D7321-9A1C-4D77-B498-E6FDBF62AFDF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ABC7E36D-4D5D-4DB6-94F6-CFD2253E9B0A}
+	EndGlobalSection
+EndGlobal
