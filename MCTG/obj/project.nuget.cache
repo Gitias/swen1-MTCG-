@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "UMA9JAjSmLxxrAun9JYPlJAm0edoALjw2irGTL0vtCbRhnPnwKyRxWDjHXQc2h+XMjwrM+pYAXIR5q80RTRhfw==",
+  "success": true,
+  "projectFilePath": "C:\\Tobias\\FH\\Semester 3\\SWEN1\\MCTG\\MCTG\\MCTG\\MCTG.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\t-sch\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\t-sch\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\t-sch\\.nuget\\packages\\npgsql\\8.0.2\\npgsql.8.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
